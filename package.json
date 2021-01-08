@@ -1,0 +1,22 @@
+{
+    "name": "endergaming",
+    "version": "0.0.1",
+    "description": "[none]",
+    "main": "app/start.js",
+    "scripts": {
+        "start": "electron ."
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/adel-sbeh/EnderGaming.git"
+    },
+    "author": "EnderAdel",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/adel-sbeh/EnderGaming/issues"
+    },
+    "homepage": "https://github.com/adel-sbeh/EnderGaming#readme",
+    "dependencies": {
+        "electron": "^11.1.1"
+    }
+}
